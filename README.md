@@ -13,4 +13,5 @@ This library is a learning resource made by students
 
 ## Functions of the MathTL Library
 
-- add  (adds to ints or floats - this is for demonstration and testing only)
+- add  (adds two floats - this is for demonstration and testing only)
+- sub  (subs one float for another - this is for demonstration and testing only)
