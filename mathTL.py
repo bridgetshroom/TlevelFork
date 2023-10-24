@@ -26,6 +26,11 @@ class MathTL():
         float
             The Sum of the addends
         '''
+
+        try:
+            n1 = float(n1)
+        except:
+            n1 = 0
        
         return n1 + n2
 
