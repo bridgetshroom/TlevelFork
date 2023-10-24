@@ -13,7 +13,7 @@ class Test_add(unittest.TestCase):
         result = MathTL.add(3.1,4.5)
         self.assertEqual(result, 7.6)
 
-    def test_float(self):
+    def test_string(self):
         result = MathTL.add("a", 4)
         self.assertEqual(result, 4)
 
