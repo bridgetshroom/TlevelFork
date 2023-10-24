@@ -1,2 +1,6 @@
-24/10/2023
-Paul added the add function with test and user example
+24/10/2023 - Paul
+Added the 'add' function with test and user example
+Added log text file
+Added a Suggestions text file
+Fixed a spelling errror in the user.py example
+Changed reduced the size of the python MD image

@@ -1,6 +1,6 @@
 from mathTL import MathTL
 '''
-This file of others like it can be used to run the math functions
+This file or others like it can be used to run the math functions
 '''
 
 
