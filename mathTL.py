@@ -29,7 +29,7 @@ class MathTL():
 
         try:
             n1 = float(n1)
-        except TypeError:
+        except ValueError:
             n1 = 0
        
         return n1 + n2
@@ -56,7 +56,7 @@ class MathTL():
 
         try:
             n1 = float(n1)
-        except TypeError:
+        except ValueError:
             n1 = 0
 
         return n1 - n2
