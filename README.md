@@ -8,4 +8,9 @@ This library is a learning resource made by students
 - Students can review each others work and improve it
 
 
-<img src="Python-logo-notext.svg.png" width="120" height="120">
+<img src="Python-logo-notext.svg.png" width="64" height="64">
+
+
+## Functions of the MathTL Library
+
+- add  (adds to ints or floats - this is for demonstration and testing only)
