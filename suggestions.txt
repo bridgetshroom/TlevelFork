@@ -7,3 +7,4 @@ Queue
 1d to 2d conversion
 int to binary
 Make an error logging tool to output error logs
+Min Max
